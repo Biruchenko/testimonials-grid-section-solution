@@ -12,7 +12,7 @@ This project implements a responsive testimonial section featuring multiple test
 
 ### Links
 
-- Some link
+- (https://biruchenko.github.io/testimonials-grid-section-solution/)
 
 ### Built with
 
