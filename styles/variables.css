@@ -1,0 +1,17 @@
+:root {
+	/* Colors */
+	--purple-50-color: hsl(260, 100%, 95%);
+	--purple-300-color: hsl(264, 82%, 70%);
+	--purple-500-color: hsl(263, 55%, 52%);
+	--white-color: hsl(0, 0%, 100%);
+	--grey-100-color: hsl(214, 17%, 92%);
+	--grey-200-color: hsl(0, 0%, 81%);
+	--grey-400-color: hsl(224, 10%, 45%);
+	--grey-500-color: hsl(217, 19%, 35%);
+	--dark-blue-color: hsl(219, 29%, 14%);
+	--black-color: hsl(0, 0%, 7%);
+	--bg-color: #f6f5f6;
+
+	/* Typography */
+	--font-main: "Barlow Semi Condensed", sans-serif;
+}
